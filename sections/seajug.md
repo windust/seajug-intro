@@ -38,7 +38,6 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Upcoming SEAJUG Events
 * Jan 29 - Billy Korando: JUnit 5
-* Feb ? - Markus Eisele: Jakarta EE, Microprofile and Streaming
 * April 16 - James Weaver: Quantum Computing
 
 
