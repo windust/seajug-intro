@@ -1,12 +1,7 @@
 ## Speaker: 
 
-### Aleksey Stukalov
-* Team Lead (50+ devs)
-* R&D CUBA  Platform
-* Worked in the oil & gas industry
-
-
-### Andrey Belyaev
-* RFID Labels Tracking
-* Social Networks
-* Dev Advocate for CUBA Platform
+### Freddy Guime
+* Principal at Expedia
+* Co-Author Java 7 Recipes
+* Host of JavaPubHouse.com and JavaOffHeap.com
+* Java Champion

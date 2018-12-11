@@ -1,16 +1,13 @@
 ## Seattle Java User's Group
 
-Oct 16 2018
+Dec 11 2018
 
 
-##Aleksey Stukalov and Andrey Belyaev Presents: CUBA Platform - Whats and whys
+##Freddy Guime Presents: A tale of Multiple Threads
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
 </div>
---section--
-## Hello World!
-Freddy Guime: Co-organizer (along with Nimret)
 
 --section--
 ## What is the SEAJug?
@@ -25,10 +22,10 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Let's create a community
 
- * Do you have a company that could host? Or be a sponsor?
+ * Do you have a company that could host? Or be a sponsor? (We need new spaces)
  * Do you want to volunteer?
  * Would like to speak at SEAJug?
- * Reach out! Talk to me after the Meetup, OR drop me a line freddy@spinningnoodle.com
+ * Reach out! Talk to me after the Meetup, OR drop us a line freddy@spinningnoodle.com
 
 --section--
 
@@ -40,6 +37,8 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming SEAJUG Events
-* Freddy Guime (Nov or Dec): Vote for topic! (http://bit.ly/seajug)
+* Jan 29 - Billy Korando: JUnit 5
+* Feb ? - Markus Eisele: Jakarta EE, Microprofile and Streaming
+* April 16 - James Weaver: Quantum Computing
 
 
