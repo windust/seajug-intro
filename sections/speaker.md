@@ -1,7 +1,6 @@
 ## Speaker: 
 
-### Freddy Guime
-* Principal at Expedia
-* Co-Author Java 7 Recipes
-* Host of JavaPubHouse.com and JavaOffHeap.com
-* Java Champion
+### Andres Almiray
+* Java Champion w/More than 19 years of experience
+* Contributor to Groovy, Griffon, DBUnit
+* Founding Member of Griffon Framework, and Hackergarten Community Event

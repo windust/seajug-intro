@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Dec 11 2018
+Jan 14 2019
 
 
-##Freddy Guime Presents: A tale of Multiple Threads
+##Andres Almiray Presents: Going reactive with gRPC
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -31,13 +31,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1450** members
+* **1528** members
 * **1** meeting per month (want more?)
 
 --section--
 
 ## Upcoming SEAJUG Events
 * Jan 29 - Billy Korando: JUnit 5
-* April 16 - James Weaver: Quantum Computing
 
 
