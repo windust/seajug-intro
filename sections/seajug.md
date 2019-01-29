@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Jan 14 2019
+Jan 29 2019
 
 
-##Andres Almiray Presents: Going reactive with gRPC
+##Billy Korando Presents: Welcome to JUnit 5
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -31,12 +31,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1528** members
+* **1544** members
 * **1** meeting per month (want more?)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Jan 29 - Billy Korando: JUnit 5
+* Feb 19 - Aurelio García-Ribeyro: Evolution of the Java Platform
 
 
