@@ -1,6 +1,6 @@
 ## Speaker: 
 
-### Andres Almiray
-* Java Champion w/More than 19 years of experience
-* Contributor to Groovy, Griffon, DBUnit
-* Founding Member of Griffon Framework, and Hackergarten Community Event
+### Billy Korando
+* Developer advocate with IBM
+* Over a decade of experience
+* Passionate about reducing mental capacity waste from tedious work through automation and good management practices
