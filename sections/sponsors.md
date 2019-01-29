@@ -1,6 +1,6 @@
 # Sponsors
 
-<img src="images/talentreach.jpg" style="border: none;background-color:white;"  width="300px"/></br>
+<img src="images/overops.svg" style="border: none;background-color:white;"  width="300px"/></br>
 
 
 # Silver Sponsors
