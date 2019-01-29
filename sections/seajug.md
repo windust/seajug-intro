@@ -29,6 +29,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 --section--
 
+## Who's Hiring?
+...and...
+## Who's Job Hunting?
+
+--section--
+
 ## Useful stats
 
 * **1544** members
