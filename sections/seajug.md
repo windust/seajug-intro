@@ -29,6 +29,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 --section--
 
+## Who's Hiring?
+...and...
+## Who's Job Hunting?
+
+--section--
+
 ## Useful stats
 
 * **1544** members
@@ -39,4 +45,11 @@ Seattle Java User's Group is dedicated to the helping you.
 ## Upcoming SEAJUG Events
 * Feb 19 - Aurelio García-Ribeyro: Evolution of the Java Platform
 
+--section--
 
+## Upcoming Events
+* Mar 16 - 18: Devnexus Conference - Atlanta GA 
+ - (Use Code MEETUP50, and/or MEETUPWORKSHOP100)
+* Apr 2      : Language Creator Panel Charity Event
+* Apr 26 - 28: LinuxFest NorthWest - Bellingham Technical College
+* Jul 15 - 18: OsCon - Portland OR
