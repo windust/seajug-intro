@@ -3,7 +3,7 @@
 Jan 29 2019
 
 
-##Billy Korando Presents: Welcome to JUnit 5
+##Aurelio García-Ribeyro Presents: The Future of Java SE
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -37,18 +37,18 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1544** members
+* **1557** members
 * **1** meeting per month (want more?)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Feb 19 - Aurelio García-Ribeyro: Evolution of the Java Platform
+* Mar 12 - Josh Long
 
 --section--
 
 ## Upcoming Events
-* Mar 16 - 18: Devnexus Conference - Atlanta GA 
+* Mar 6 - 8: Devnexus Conference - Atlanta GA 
  - (Use Code MEETUP50, and/or MEETUPWORKSHOP100)
 * Apr 2      : Language Creator Panel Charity Event
 * Apr 26 - 28: LinuxFest NorthWest - Bellingham Technical College
