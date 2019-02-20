@@ -3,7 +3,7 @@
 Jan 29 2019
 
 
-##Aurelio García-Ribeyro Presents: The Future of Java SE
+##Aurelio Garcia-Ribeyro Presents: The Future of Java SE
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
