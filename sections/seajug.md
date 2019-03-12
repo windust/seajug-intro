@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Jan 29 2019
+Mar 12 2019
 
 
-##Billy Korando Presents: Welcome to JUnit 5
+##Josh Long Presents: Reactive Spring
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -25,31 +25,24 @@ Seattle Java User's Group is dedicated to the helping you.
  * Do you have a company that could host? Or be a sponsor? (We need new spaces)
  * Do you want to volunteer?
  * Would like to speak at SEAJug?
- * Reach out! Talk to me after the Meetup, OR drop us a line freddy@spinningnoodle.com
-
---section--
-
-## Who's Hiring?
-...and...
-## Who's Job Hunting?
+ * Reach out! Talk to any of the SeaJUG organizers, OR drop us a line 
+ * freddy.guime@seajug.org
 
 --section--
 
 ## Useful stats
 
-* **1544** members
-* **1** meeting per month (want more?)
+* **1600** members (We know there are more)
+* **1.5** meeting per month (want more?)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Feb 19 - Aurelio García-Ribeyro: Evolution of the Java Platform
+* Mar 19: Performance Tuning using jPDM
+* Apr 16: Quantum Computing w/James Weaver
 
 --section--
 
 ## Upcoming Events
-* Mar 16 - 18: Devnexus Conference - Atlanta GA 
- - (Use Code MEETUP50, and/or MEETUPWORKSHOP100)
-* Apr 2      : Language Creator Panel Charity Event
 * Apr 26 - 28: LinuxFest NorthWest - Bellingham Technical College
 * Jul 15 - 18: OsCon - Portland OR

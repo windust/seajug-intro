@@ -1,6 +1,7 @@
 ## Speaker: 
 
-### Billy Korando
-* Developer advocate with IBM
-* Over a decade of experience
-* Passionate about reducing mental capacity waste from tedious work through automation and good management practices
+### Josh Long
+* THE Developer advocate from Pivotal
+* Java Champion
+* Book Author (Designing Resilient Systems with Spring Boot)
+* Open Source Contributor
