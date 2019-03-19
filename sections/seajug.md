@@ -39,7 +39,11 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Upcoming SEAJUG Events
 * Apr 16: Quantum Computing w/James Weaver
-* May 21: Lightning Talks! (submit at present@seajug.org)
+* May 21: Lightning Talks! (submit at <A href="mailto:present@seajug.org">present@seajug.org</a>)
+ - 5 ~ 10 mins Presentation
+ - Any JVM Topic
+ - Great way to start speaking!
+
 --section--
 
 ## Upcoming Events
