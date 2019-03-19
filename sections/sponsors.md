@@ -1,6 +1,6 @@
 # Sponsors
 
-<img src="images/expediagroup.jpg" style="border: none;background-color:white;"  width="300px"/></br>
+<img src="images/smartsheet.png" style="border: none;background-color:white;"  width="300px"/></br>
 
 
 # Silver Sponsors

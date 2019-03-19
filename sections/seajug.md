@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Mar 12 2019
+Mar 19 2019
 
 
-##Josh Long Presents: Reactive Spring
+##Kirk Pepperdine Presents: Performance Tuning using jPDM
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -38,9 +38,8 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming SEAJUG Events
-* Mar 19: Performance Tuning using jPDM
 * Apr 16: Quantum Computing w/James Weaver
-
+* May 21: Lightning Talks! (submit at present@seajug.org)
 --section--
 
 ## Upcoming Events

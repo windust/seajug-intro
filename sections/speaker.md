@@ -1,7 +1,8 @@
 ## Speaker: 
 
-### Josh Long
-* THE Developer advocate from Pivotal
-* Java Champion
-* Book Author (Designing Resilient Systems with Spring Boot)
-* Open Source Contributor
+### Kirk Pepperdine
+* Performance Tuning for 20 years
+* JClarity Co-founder and CTO
+* Author of jPDM
+* Java Champion, Oracle Groundbreakers, InfoQ Influencers 
+* Co-founder of JCrete (JAva Un-conference)
