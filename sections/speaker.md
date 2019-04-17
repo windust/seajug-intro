@@ -1,8 +1,6 @@
 ## Speaker: 
 
-### Kirk Pepperdine
-* Performance Tuning for 20 years
-* JClarity Co-founder and CTO
-* Author of jPDM
-* Java Champion, Oracle Groundbreakers, InfoQ Influencers 
-* Co-founder of JCrete (JAva Un-conference)
+### James Weaver
+* Author, Developer, Speaker Quantum
+* Java Champion, Java Rockstar
+* Book Author (Java w/Raspberry Pi)

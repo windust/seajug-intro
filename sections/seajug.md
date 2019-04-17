@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Mar 19 2019
+April 17, 2019
 
 
-##Kirk Pepperdine Presents: Performance Tuning using jPDM
+##James Weaver Presents: Jamming with a Quantum Computer - A musical journey into quantum computing
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -32,17 +32,27 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1600** members (We know there are more)
+* **1650** members (We know there are more)
 * **1.5** meeting per month (want more?)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Apr 16: Quantum Computing w/James Weaver
 * May 21: Lightning Talks! (submit at <A href="mailto:present@seajug.org">present@seajug.org</a>)
  - 5 ~ 10 mins Presentation
  - Any JVM Topic
  - Great way to start speaking!
+
+--section--
+## Office HOURS!
+
+
+<img src="images/office.png" style="border: none;background-color:white;" /></br>
+
+--section--
+## Office HOURS!
+
+<img src="images/office2.png" style="border: none;background-color:white;" /></br>
 
 --section--
 
