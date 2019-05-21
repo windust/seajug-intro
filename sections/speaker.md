@@ -1,6 +1,8 @@
 ## Speaker: 
 
-### James Weaver
-* Author, Developer, Speaker Quantum
-* Java Champion, Java Rockstar
-* Book Author (Java w/Raspberry Pi)
+### All of you!
+* Eric Jain
+* Jonatan Ivanov
+* Sam Berk
+* Konstantin Ignatyev
+* Evan Reynolds

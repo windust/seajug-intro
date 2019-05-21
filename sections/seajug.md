@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-April 17, 2019
+May 21, 2019
 
 
-##James Weaver Presents: Jamming with a Quantum Computer - A musical journey into quantum computing
+##All of YOU Presents: Lightning Talks!
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -17,6 +17,7 @@ Seattle Java User's Group is dedicated to the helping you.
 * Learn and contribute to Java / JVM ecosystem
 * Mentorship and career opportunities
 * Have fun and build cool things
+* WE HAVE A NEW SITE https://www.seajug.org
 
 --section--
 
@@ -32,16 +33,17 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1650** members (We know there are more)
-* **1.5** meeting per month (want more?)
+* **1680** members (We know there are more)
+* **1.5** meeting per month (More volunteers!)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* May 21: Lightning Talks! (submit at <A href="mailto:present@seajug.org">present@seajug.org</a>)
- - 5 ~ 10 mins Presentation
- - Any JVM Topic
- - Great way to start speaking!
+* Jun 18: Azul / OpenJDK  (Simon Ritter)
+* Jul 16: MSFT + Spring
+* Aug 20: How the Scala way gets in Scala's Way
+* Sep 17: Effective Docker and Kubernetes for Java EE Developers
+
 
 --section--
 ## Office HOURS!
@@ -57,5 +59,4 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming Events
-* Apr 26 - 28: LinuxFest NorthWest - Bellingham Technical College
 * Jul 15 - 18: OsCon - Portland OR
