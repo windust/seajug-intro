@@ -1,10 +1,10 @@
 # Sponsors
 
-<img src="images/logic2020/Slide1.PNG" style="border: none;background-color:white;" /></br>
+<img src="images/disney_logo.jpg" style="border: none;background-color:white;" /></br>
 
 
 # Sponsors - Slide 2
-<img src="images/logic2020/Slide2.PNG" style="border: none;background-color:white;" /></br>
+<img src="images/Azul-Logo.png" style="border: none;background-color:white;" /></br>
 
 
 <div>
