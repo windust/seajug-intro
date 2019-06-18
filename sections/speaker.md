@@ -1,6 +1,7 @@
 ## Speaker: 
 
-### James Weaver
-* Author, Developer, Speaker Quantum
-* Java Champion, Java Rockstar
-* Book Author (Java w/Raspberry Pi)
+### Gil Tene
+* CTO and co-founder of Azul Systems
+* Official JavaOne Rockstar
+* Pioneered the Continuously Concurrent Compacting Collector (C4)
+* Designed/built operating systems, network switches, firewalls, and laser based mosquito interception systems
