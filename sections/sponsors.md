@@ -1,10 +1,6 @@
 # Sponsors
 
-<img src="images/disney_logo.jpg" style="border: none;background-color:white;"  /></br>
-
-
-#Food Sponsor
-<img src="images/overops.svg" style="border: none;background-color:white;" height=300 /></br>
+<img src="images/logic2020.png" style="border: none;background-color:white;"  /></br>
 
 
 <div>

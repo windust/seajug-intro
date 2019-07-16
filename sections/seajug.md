@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-May 21, 2019
+July 16, 2019
 
 
-##All of YOU Presents: Lightning Talks!
+##The Future of Java and You && Cloud-native event-driven arch with Spring + Azure
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -57,6 +57,10 @@ Seattle Java User's Group is dedicated to the helping you.
 <img src="images/office2.png" style="border: none;background-color:white;" /></br>
 
 --section--
+## Upcoming Meetups
+ * 8/20: How The Scala Way Gets in Scala's Way (Mitch Gitman)
+ * 9/17: Effective Docker and Kubernetes for Java EE Developers	(Reza Rehman)
 
 ## Upcoming Events
+
 * Jul 15 - 18: OsCon - Portland OR

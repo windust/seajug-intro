@@ -1,8 +1,8 @@
 ## Speaker: 
 
-### All of you!
-* Eric Jain
-* Jonatan Ivanov
-* Sam Berk
-* Konstantin Ignatyev
-* Evan Reynolds
+### Heather VanCura
+* Chairperson and Director, Java Community Process Program
+
+### Asir Selvasingh 
+* Principal PM Architect
+* Microsoft – Java on Azure
