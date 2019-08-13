@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-July 16, 2019
+August 13, 2019
 
 
-##The Future of Java and You && Cloud-native event-driven arch with Spring + Azure
+##Effective Docker and Kubernetes for Java EE Developers
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -17,7 +17,6 @@ Seattle Java User's Group is dedicated to the helping you.
 * Learn and contribute to Java / JVM ecosystem
 * Mentorship and career opportunities
 * Have fun and build cool things
-* WE HAVE A NEW SITE https://www.seajug.org
 
 --section--
 
@@ -39,28 +38,11 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming SEAJUG Events
-* Jun 18: Azul / OpenJDK  (Simon Ritter)
-* Jul 16: MSFT + Spring
-* Aug 20: How the Scala way gets in Scala's Way
-* Sep 17: Effective Docker and Kubernetes for Java EE Developers
+* Sep 17: How The Scala Way Gets in Scala's Way
 
-
---section--
-## Office HOURS!
-
-
-<img src="images/office.png" style="border: none;background-color:white;" /></br>
-
---section--
-## Office HOURS!
-
-<img src="images/office2.png" style="border: none;background-color:white;" /></br>
 
 --section--
 ## Upcoming Meetups
  * 8/20: How The Scala Way Gets in Scala's Way (Mitch Gitman)
  * 9/17: Effective Docker and Kubernetes for Java EE Developers	(Reza Rehman)
 
-## Upcoming Events
-
-* Jul 15 - 18: OsCon - Portland OR
