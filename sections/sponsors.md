@@ -1,6 +1,6 @@
 # Sponsors
 
-<img src="images/Expedia.png" style="border: none;background-color:white;"  /></br>
+<img src="images/logic2020.png" style="border: none;background-color:white;"  /></br>
 
 
 <div>
