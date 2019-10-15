@@ -1,6 +1,9 @@
 # Sponsors
 
-<img src="images/logic2020.png" style="border: none;background-color:white;"  /></br>
+<img src="images/disney_logo.jpg" style="border: none;background-color:white;"  /></br>
+
+
+<img src="images/overops.svg" style="border: none;background-color:white;"  /></br>
 
 
 <div>
