@@ -1,9 +1,10 @@
 ## Seattle Java User's Group
 
-Oct 15, 2019
+Nov 19, 2019
 
 
-##Michael Carducci Presents: Serverless and Event Driven Microservices with Micronaut
+##Machine Learning with k-NN search in Open Distro for Elasticsearch
+
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/seajug.png" style="border: none; box-shadow: none;"/>
@@ -41,10 +42,6 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming SEAJUG Events
-* Nov 19: Kartavya Jain Presents - Open Distro for Elasticsearch: Performance Analyzer and PerfTop
-* Dec 12 : SeaJUG Holiday Party! (Want to sponsor?)
-
-
-## Upcoming Events
- * "No Fluff Just Stuff" Tour Nov 8-10. Use code nfjsusergroup50 for discount!
+* Dec 10 : Office Hours
+* Dec 12 : SeaJUG Holiday Party!
 

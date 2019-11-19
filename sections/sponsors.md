@@ -1,9 +1,15 @@
 # Sponsors
 
-<img src="images/disney_logo.jpg" style="border: none;background-color:white;"  /></br>
+<table>
+	<tr>
+		<td>
+<img src="images/disney_logo.jpg" style="border: none;background-color:white; height: 300px"  />
+</td><td>
 
-
-<img src="images/overops.svg" style="border: none;background-color:white;"  /></br>
+<img src="images/newrelic.jpg" style="border: none;background-color:white; height: 300px;"  /></br>
+</td>
+</tr>
+</table>
 
 
 <div>
