@@ -1,9 +1,10 @@
 ## Seattle Java User's Group
 
-Nov 19, 2019
+Jan 21, 2020
 
 
-##Machine Learning with k-NN search in Open Distro for Elasticsearch
+##AOT Compilation
+
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -36,12 +37,11 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1940** members (Ok we should break 2000 by EOY)
+* **2,016** members 
 * **1.5** meeting per month (More volunteers!)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Dec 10 : Office Hours
-* Dec 12 : SeaJUG Holiday Party!
-
+* Feb 4: Office Hours @CodeFellows
+* Feb 18: GraalVM w/ Eric Sedlar @Amazon

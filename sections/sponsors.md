@@ -1,17 +1,15 @@
 # Sponsors
 
-<table>
-	<tr>
-		<td>
-<img src="images/disney_logo.jpg" style="border: none;background-color:white; height: 300px"  />
-</td><td>
 
-<img src="images/newrelic.jpg" style="border: none;background-color:white; height: 300px;"  /></br>
-</td>
-</tr>
-</table>
+<img src="images/AWS_AWS_logo_RGB.png" style="border: none;background-color:white; height: 300px"  />
 
 
-<div>
-<h1>Want to be here?</h1>
-</div>
+## Want to be here?
+
+
+# Amazon Kinesis
+
+AWS Kinesis makes it easy to collect, process, and analyze real-time streaming data so you can get timely insights and react quickly to new information.For exciting career opportunities contact:
+
+* Mike Daly- Sr. Technical Recruiter - meeldaly@amazon.com
+* Mona Rajeshirke- Software Development Manager - monaraje@amazon.com
