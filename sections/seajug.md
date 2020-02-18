@@ -3,7 +3,7 @@
 Jan 21, 2020
 
 
-##AOT Compilation
+## Eric Sedlar: The GraalVM Universal Runtime
 
 
 
@@ -37,11 +37,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,016** members 
+* **2,029** members 
 * **1.5** meeting per month (More volunteers!)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Feb 4: Office Hours @CodeFellows
-* Feb 18: GraalVM w/ Eric Sedlar @Amazon
+* Mar: Office Hours
+* Mar 17: Monthly Meetup -- Announcement Soon
+* Mar 30: Bonus Meetup! Graeme Rocher: GraalVM, AWS Lambda, microservices and serverless
