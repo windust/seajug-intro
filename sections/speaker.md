@@ -1,3 +1,4 @@
 ## Speaker(s): 
 
-* Ludovic Henry
+* Keeping Current: James Chen
+* Weird Strings: Jonatan Ivanov

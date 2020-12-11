@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Jan 21, 2020
+Dec  10, 2020
 
 
-##AOT Compilation
+##Holiday Party!
 
 
 
@@ -27,7 +27,6 @@ Seattle Java User's Group is dedicated to the helping you.
 
 --section--
 ## Let's create a community
- * Do you have a company that could host? Or be a sponsor? (We need new spaces)
  * Do you want to volunteer?
  * Would like to speak at SEAJug?
  * Reach out! Talk to any of the SeaJUG organizers, OR drop us a line 
@@ -37,11 +36,10 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,016** members 
-* **1.5** meeting per month (More volunteers!)
+* **2,030** members 
+* Plan on virtual meetings for 2021
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Feb 4: Office Hours @CodeFellows
-* Feb 18: GraalVM w/ Eric Sedlar @Amazon
+* TBD!
