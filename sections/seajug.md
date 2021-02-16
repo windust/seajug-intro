@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Dec  10, 2020
+Jan 19, 2021
 
 
-##Holiday Party!
+##Cloud Native Java
 
 
 
@@ -23,7 +23,9 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 ## Is it your first time coming to SeaJUG?
 
- If so, for the next session, Bring a Friend!
+ * If so, for the next session, 
+ * share the love! 
+ * invite someone new
 
 --section--
 ## Let's create a community
@@ -36,10 +38,11 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,030** members 
-* Plan on virtual meetings for 2021
+* **2,036** -> **2,087** members 
+* Virtual meetings for 2021
 
 --section--
 
-## Upcoming SEAJUG Events
-* TBD!
+## Upcoming Events
+* Devnexus 2021 (https://devnexus.com/) NOW!
+* Intellij Idea Conf (Feb 25-26) (https://blog.jetbrains.com/idea/2021/02/intellij-idea-conf-celebrating-two-decades-of-productive-development/)
