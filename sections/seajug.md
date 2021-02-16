@@ -1,6 +1,6 @@
 ## Seattle Java User's Group
 
-Jan 19, 2021
+Feb 16, 2021
 
 
 ##Cloud Native Java
