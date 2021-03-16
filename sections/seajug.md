@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-Feb 16, 2021
+Mar 16, 2021
 
 
-##Cloud Native Java
+##Amazon Corretto, A Journey into Latency Reduction
 
 
 
@@ -44,5 +44,4 @@ Seattle Java User's Group is dedicated to the helping you.
 --section--
 
 ## Upcoming Events
-* Devnexus 2021 (https://devnexus.com/) NOW!
-* Intellij Idea Conf (Feb 25-26) (https://blog.jetbrains.com/idea/2021/02/intellij-idea-conf-celebrating-two-decades-of-productive-development/)
+* Foojay.io (https://foojay.io/) (ongoing)
