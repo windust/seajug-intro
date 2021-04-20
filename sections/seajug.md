@@ -3,7 +3,8 @@
 Mar 16, 2021
 
 
-##Amazon Corretto, A Journey into Latency Reduction
+##Distributed Java Databases Under the Hood: Main Components and Interactions
+
 
 
 
@@ -38,10 +39,9 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,036** -> **2,087** members 
+* **2,087** -> **2,132** members 
 * Virtual meetings for 2021
 
 --section--
 
 ## Upcoming Events
-* Foojay.io (https://foojay.io/) (ongoing)

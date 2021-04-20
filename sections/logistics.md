@@ -5,7 +5,3 @@
 
 ## Food & drink are...in your home!
 
-
-# Agenda
-
-## 
