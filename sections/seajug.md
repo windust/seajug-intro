@@ -1,6 +1,6 @@
 ## Seattle Java User's Group
 
-Mar 16, 2021
+April 20, 2021
 
 
 ##Distributed Java Databases Under the Hood: Main Components and Interactions
