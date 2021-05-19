@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-April 20, 2021
+May 18, 2021
 
 
-##Distributed Java Databases Under the Hood: Main Components and Interactions
+##Automated Refactoring for Java-Based Applications
 
 
 
@@ -39,8 +39,8 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,087** -> **2,132** members 
-* Virtual meetings for 2021
+* **2,170** members 
+* Virtual meetings for 2021 (maybe we can start having in-person?)
 
 --section--
 

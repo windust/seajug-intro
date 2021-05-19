@@ -1,5 +1,8 @@
 ## Speaker(s): 
 
-* Valentin Kulichenko, GridGain Director of Product Management
+* Jonathan Schneider, co-founder and CEO of Moderne
 
- - Apache Ignite PMC
+ - Previous of Spring Team (Micrometer)
+ - Previous of Netflix (Engineering Tools)
+ - Author "SRE with Java Microservices"
+ 
