@@ -1,9 +1,9 @@
 ## Seattle Java User's Group
 
-May 18, 2021
+Jun 15, 2021
 
 
-##Automated Refactoring for Java-Based Applications
+##Full Stack Java In 2021
 
 
 
@@ -39,7 +39,7 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2,170** members 
+* **2,194** members 
 * Virtual meetings for 2021 (maybe we can start having in-person?)
 
 --section--
