@@ -1,5 +1,6 @@
 ## Speaker(s): 
 
-* Will Iverson 
- - Frequent Speaker @ SeaJUG
+* The Quarkus Team  
+ - You know, they created Quarkus...
+ 
  

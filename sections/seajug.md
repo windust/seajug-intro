@@ -1,9 +1,8 @@
 ## Seattle Java User's Group
 
-Jun 15, 2021
+Jul, 20, 2021
 
-
-##Full Stack Java In 2021
+##All Rock'n Roll and Big Drum Solos
 
 
 
