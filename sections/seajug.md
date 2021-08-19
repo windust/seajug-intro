@@ -1,8 +1,8 @@
 ## Seattle Java User's Group
 
-Jul, 20, 2021
+Aug 25, 2021
 
-##All Rock'n Roll and Big Drum Solos
+##Joy of productive development with gRPC and type safety end-to-end
 
 
 
@@ -35,6 +35,22 @@ Seattle Java User's Group is dedicated to the helping you.
  * leadership@seajug.org
 
 --section--
+## A (very) brief Code-of-Conduct
+
+* We Believe in being Inclusive
+* Be curious, ask questions, avoid assumptions
+* Continue to grow trust, empathy, and friendship
+* Be polite, have positive intent
+
+or in other words...
+<div >
+    <img height=400px src="images/nice.jpg" />
+</div>
+
+
+
+--section--
+
 
 ## Useful stats
 

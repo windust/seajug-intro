@@ -1,6 +1,10 @@
 ## Speaker(s): 
 
-* The Quarkus Team  
- - You know, they created Quarkus...
+* Konstantin Ignatyev  
+
+- Hands-on Architect 
+- Small, medium, and big companies focused on products.
+- Interested in productive, human centric technology 
+
  
  
