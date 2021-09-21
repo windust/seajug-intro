@@ -1,8 +1,8 @@
 ## Seattle Java User's Group
 
-Aug 25, 2021
+Sep 21, 2021
 
-##Joy of productive development with gRPC and type safety end-to-end
+##Detect complex code patterns using semantic grep
 
 
 
