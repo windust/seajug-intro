@@ -1,10 +1,10 @@
 ## Speaker(s): 
 
-* Konstantin Ignatyev  
+* Kurt Boberg and Daghan Atlas
 
-- Hands-on Architect 
-- Small, medium, and big companies focused on products.
-- Interested in productive, human centric technology 
+- Kurt: app security engineer for 4 years, DevOps earlier 
+- Daghan Atlas: Head of Ops for r2c, Senior Director at Cisco Meraki earlier
+
 
  
  
