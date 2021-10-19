@@ -1,8 +1,8 @@
 ## Seattle Java User's Group
 
-Sep 21, 2021
+2021-10-19
 
-##Detect complex code patterns using semantic grep
+## Busy Java Developer's Guide to Graal
 
 
 
@@ -54,8 +54,9 @@ or in other words...
 
 ## Useful stats
 
-* **2,194** members 
-* Virtual meetings for 2021 (maybe we can start having in-person?)
+* **2,230** members 
+* Virtual meetings for 2021
+* In-person 2022?
 
 --section--
 
