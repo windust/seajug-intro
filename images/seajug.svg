@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="seajug-logo.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   width="800px"
+   height="800px"
+   viewBox="0 0 800 800"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs23">
+    <path
+       style="display:inline;fill:#acacac;fill-opacity:1;stroke-width:3.3026"
+       d="M 100,400 A 300,300 0 0 0 400,700 300,300 0 0 0 700,400 300,300 0 0 0 400,100 300,300 0 0 0 100,400 Z"
+       id="path877-2-7"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="1005"
+     inkscape:window-width="1680"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="387.50786"
+     inkscape:cx="343.02044"
+     inkscape:zoom="0.95169365"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false" />
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg">
+    <rect
+       style="opacity:0;fill:#ffffff;stroke:#1a1a1a;stroke-width:9.31653;stroke-dasharray:0, 102.48200000000001353;fill-opacity:1"
+       id="rect867"
+       width="800"
+       height="800"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="outer-black-circle"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <circle
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25593"
+       id="path36"
+       cx="400"
+       cy="400"
+       r="400" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="outer-white-circle"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <circle
+       r="390"
+       style="display:inline;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke-width:1.22455"
+       id="path36-2"
+       cx="400"
+       cy="400" />
+  </g>
+  <g
+     style="display:inline;opacity:1"
+     inkscape:label="green-circle"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <circle
+       cy="400"
+       cx="400"
+       id="path36-2-2"
+       style="display:inline;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.20571"
+       r="384" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="inner-white-circle"
+     id="layer5"
+     inkscape:groupmode="layer">
+    <circle
+       style="display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.816362"
+       id="path36-2-2-6"
+       cx="400"
+       cy="400"
+       r="260" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="inner-black-circle"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <circle
+       cy="400"
+       cx="400"
+       id="path36-2-2-6-9"
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.778685"
+       r="248" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="bean"
+     style="display:inline">
+    <ellipse
+       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.06147"
+       id="path1017"
+       cx="294.30276"
+       cy="497.33429"
+       rx="224.56303"
+       ry="152.4187"
+       transform="matrix(0.95920268,-0.28271934,0.23666981,0.97159014,0,0)" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:9.31653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.17854,480.73723 c 26.31292,-39.52581 68.67675,-41.62228 68.67675,-41.62228 93.74466,-5.58709 199.7869,-38.5006 257.01752,-91.56899 0,0 20.81113,-24.97336 106.13679,-26.01392"
+       id="path1079"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="display:inline;fill:none;stroke:#1a1a1a;stroke-width:9.31653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.17854,480.73723 c 30.50413,-41.65853 64.06285,-44.18557 64.06285,-44.18557 160.49988,-11.95604 215.20519,-48.68319 272.43581,-101.75158 0,0 8.20376,-13.01086 95.33241,-13.26805"
+       id="path1079-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="stars"
+     id="layer7"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       style="fill:#f9f9f9;fill-opacity:1"
+       id="path997"
+       sodipodi:sides="5"
+       sodipodi:cx="83.244537"
+       sodipodi:cy="391.24933"
+       sodipodi:r1="52.863972"
+       sodipodi:r2="20.194036"
+       sodipodi:arg1="0.93910569"
+       sodipodi:arg2="1.5674242"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 114.46124,433.91216 83.312634,411.44325 52.316269,434.12172 64.06002,397.55436 32.913112,375.08309 l 38.406645,-0.13096 11.746518,-36.56647 11.99286,36.48642 38.406655,-0.12806 -30.99465,22.68081 z"
+       inkscape:transform-center-x="0.054783268"
+       inkscape:transform-center-y="-5.2181394"
+       transform="matrix(0.9945036,0,0,1.0445385,-2.7322086,-3.4568471)" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1"
+       id="path997-8"
+       sodipodi:sides="5"
+       sodipodi:cx="83.244537"
+       sodipodi:cy="391.24933"
+       sodipodi:r1="52.863972"
+       sodipodi:r2="20.194036"
+       sodipodi:arg1="0.93910569"
+       sodipodi:arg2="1.5674242"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 114.46124,433.91216 83.312634,411.44325 52.316269,434.12172 64.06002,397.55436 32.913112,375.08309 l 38.406645,-0.13096 11.746518,-36.56647 11.99286,36.48642 38.406655,-0.12806 -30.99465,22.68081 z"
+       inkscape:transform-center-x="0.054783268"
+       inkscape:transform-center-y="-5.2181394"
+       transform="matrix(0.9945036,0,0,1.0445385,637.26779,-3.4568472)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Seattle Area Text curve"
+     style="display:none">
+    <path
+       style="fill:#acacac;fill-opacity:1;stroke-width:3.03839"
+       d="M 676,400 A 276,276 0 0 1 400,676 276,276 0 0 1 124,400 276,276 0 0 1 400,124 276,276 0 0 1 676,400 Z"
+       id="path877"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Seattle Area Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="text874"
+       transform="rotate(-164,399.69105,399.32887)"><textPath
+         xlink:href="#path877"
+         id="textPath879"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#f9f9f9;fill-opacity:1"
+           id="tspan872">SEATTLE AREA</tspan></textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Java User Group curve"
+     style="display:none">
+    <path
+       inkscape:connector-curvature="0"
+       id="path877-2"
+       d="M 50,400 A 350,350 0 0 0 400,750 350,350 0 0 0 750,400 350,350 0 0 0 400,50 350,350 0 0 0 50,400 Z"
+       style="display:inline;fill:#acacac;fill-opacity:1;stroke-width:3.85304" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Java User Group Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="text990"
+       transform="rotate(-14.75,415.06476,395.71202)"><textPath
+         xlink:href="#path877-2"
+         id="textPath992"
+         style="fill:#f9f9f9;fill-opacity:1">JAVA USER GROUP</textPath></text>
+  </g>
+</svg>
