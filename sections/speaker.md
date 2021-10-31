@@ -1,10 +1,8 @@
 ## Speaker(s): 
 
-* Kurt Boberg and Daghan Atlas
+* Ted Neward
 
-- Kurt: app security engineer for 4 years, DevOps earlier 
-- Daghan Atlas: Head of Ops for r2c, Senior Director at Cisco Meraki earlier
-
-
- 
- 
+- "The Dude of Software"
+- An industry professional of twenty years' experience
+- Speaks at conferences all over the world
+- Writes regularly for a variety of publications across the Java, .NET, and other ecosystems
