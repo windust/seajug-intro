@@ -1,8 +1,7 @@
 ## Speaker(s): 
 
-* Ted Neward
+* Jonatan Ivanov
 
-- "The Dude of Software"
-- An industry professional of twenty years' experience
-- Speaks at conferences all over the world
-- Writes regularly for a variety of publications across the Java, .NET, and other ecosystems
+- Spring Engineering Team, speaker, author, 
+- Certified dragon trainer
+- develotters (https://develotters.com/)

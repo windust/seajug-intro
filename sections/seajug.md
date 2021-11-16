@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2021-10-19
+2021-11-16
 
-## Busy Java Developer's Guide to Graal
+## Observability - Beyond the three pillars with Spring
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
