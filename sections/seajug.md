@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2021-11-16
+2022-01-18
 
-## Observability - Beyond the three pillars with Spring
+## Removing complexity from integration tests using Testcontainers
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,8 +52,8 @@ or in other words...
 
 ## Useful stats
 
-* **2,230** members 
-* Virtual meetings for 2021
+* **2,260** members 
+* Virtual meetings for 2021-2022
 * In-person 2022?
 
 --section--

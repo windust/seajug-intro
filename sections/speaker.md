@@ -1,7 +1,9 @@
 ## Speaker(s): 
 
-* Jonatan Ivanov
+* Oleg Selajev
 
-- Spring Engineering Team, speaker, author, 
-- Certified dragon trainer
-- develotters (https://develotters.com/)
+- Developer advocate at AtomicJar Inc.
+- Working on Testcontainers
+- Making integrations tests easier and more popular
+- Believes in people and integration tests
+- Loves all languages
