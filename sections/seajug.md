@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-01-18
+2022-02-15
 
-## Removing complexity from integration tests using Testcontainers
+## Releasing at the speed of light
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -12,7 +12,7 @@
 
 Seattle Java User Group is dedicated to the helping you.
 
-* Create a vibrant community 
+* Create a vibrant community
 * Learn and contribute to Java / JVM ecosystem
 * Mentorship and career opportunities
 * Have fun and build cool things
@@ -21,8 +21,8 @@ Seattle Java User Group is dedicated to the helping you.
 
 ## Is it your first time coming to SeaJUG?
 
- * If so, for the next session, 
- * share the love! 
+ * If so, for the next session,
+ * share the love!
  * invite someone new
 
 --section--
@@ -31,7 +31,7 @@ Seattle Java User Group is dedicated to the helping you.
 
 * Do you want to volunteer?
 * Would like to speak at SeaJUG?
-* Reach out! Talk to any of the SeaJUG organizers, OR drop us a line 
+* Reach out! Talk to any of the SeaJUG organizers, OR drop us a line
 * leadership@seajug.org
 
 --section--
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,260** members 
+* **2,263** members
 * Virtual meetings for 2021-2022
 * In-person 2022?
 
