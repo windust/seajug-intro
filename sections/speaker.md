@@ -1,9 +1,8 @@
 ## Speaker(s): 
 
-* Oleg Selajev
+* Andres Almiray
 
-- Developer advocate at AtomicJar Inc.
-- Working on Testcontainers
-- Making integrations tests easier and more popular
-- Believes in people and integration tests
-- Loves all languages
+- Java/Groovy developer and a Java Champion
+- Participated in popular projects like Groovy, Griffon, and DbUnit
+- Founding member of the Griffon framework and Hackergarten community event
+- Has many of his own projects: Json-lib, EZMorph, GraphicsBuilder, JideBuilder, Gum, JReleaser, etc.
