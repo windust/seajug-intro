@@ -1,8 +1,8 @@
 ## Speaker(s): 
 
-* Andres Almiray
+* Ted Neward
 
-- Java/Groovy developer and a Java Champion
-- Participated in popular projects like Groovy, Griffon, and DbUnit
-- Founding member of the Griffon framework and Hackergarten community event
-- Has many of his own projects: Json-lib, EZMorph, GraphicsBuilder, JideBuilder, Gum, JReleaser, etc.
+ - Ted Neward is an industry professional of twenty years' experience. 
+ - He speaks at conferences all over the world and writes regularly for a variety of publications across the Java, .NET, and other ecosystems. 
+ - He currently resides in the Pacific Northwest with his wife, two sons, three cats, twelve laptops, seven tablets, nine phones, and a rather large utility bill.
+ 

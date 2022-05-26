@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-02-15
+2022-05-25
 
-## Releasing at the speed of light
+## Busy Java Developer's Guide to Native Code
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,10 +52,13 @@ or in other words...
 
 ## Useful stats
 
-* **2,263** members
+* **2,292** members
 * Virtual meetings for 2021-2022
-* In-person 2022?
+* In-person 2022 YAY!
 
 --section--
 
 ## Upcoming Events
+
+* Jun 21: Java To The Future! (Billy Korando)
+* Jul 11: Spring One

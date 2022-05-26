@@ -1,5 +1,5 @@
 # Logistics
 
-## The bathrooms are...in your home!
+## The bathrooms are
 
-## Food & drink are...in your home!
+## Food & drink are
