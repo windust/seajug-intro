@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-05-25
+2022-06-21
 
-## Busy Java Developer's Guide to Native Code
+## Java to the future!
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,292** members
+* **2,297** members
 * Virtual meetings for 2021-2022
 * In-person 2022 YAY!
 
@@ -60,5 +60,4 @@ or in other words...
 
 ## Upcoming Events
 
-* Jun 21: Java To The Future! (Billy Korando)
-* Jul 11: Spring One
+* Jul 11: SpringOne Tour Seattle (Mario Gray)
