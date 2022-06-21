@@ -21,5 +21,8 @@ or if python 3
 python3 -m http.server
 ```
 
-
 Then point your browser at [http://localhost:8000](http://localhost:8000)
+
+## Production
+
+The project is hosted on GitHub Pages: https://windust.github.io/seajug-intro/
