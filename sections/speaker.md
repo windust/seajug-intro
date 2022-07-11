@@ -1,6 +1,6 @@
-## Speaker(s): Billy Korando
+## Speaker(s): Mario Gray
 
-- Java Developer Advocate with the Java Platform Group at Oracle
-- Over a decade of experience in Java
-- Help developers find ways to reduce tedious work, such as project initiation, deployment, testing, and validation, through automation and adopting the latest features and tools in the Java ecosystem
-- Check out #SipOfJava on Twitter
+- Spring developer advocate
+- More than 20 years of experience in software development and software architecture
+- Co-author of Pro Spring Integration (Apress, 2011)
+- Loves to engage and inspire developers and businesses in the VMware ecosystem
