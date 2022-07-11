@@ -45,7 +45,7 @@ Seattle Java User Group is dedicated to the helping you.
 
 or in other words...
 <div >
-    <img height=400px src="/images/nice.jpg" />
+    <img height=400px src="images/nice.jpg" />
 </div>
 
 --section--
