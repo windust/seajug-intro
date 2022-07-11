@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-06-21
+2022-07-11
 
-## Java to the future!
+## Discover Secure RSocket Microservices with Spring Boot!
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,297** members
+* **2,306** members
 * Virtual meetings for 2021-2022
 * In-person 2022 YAY!
 
@@ -60,4 +60,5 @@ or in other words...
 
 ## Upcoming Events
 
-* Jul 11: SpringOne Tour Seattle (Mario Gray)
+* Jul 12-13: SpringOne Tour Seattle (S1TSEANOW)
+* Aug 16: Stephen Chin (JFrog)
