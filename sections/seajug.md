@@ -60,5 +60,6 @@ or in other words...
 
 ## Upcoming Events
 
-* Jul 12-13: SpringOne Tour Seattle (S1TSEANOW)
-* Aug 16: Stephen Chin (JFrog)
+* Aug 30. Venkat Subramaniam (Agile Developer, Inc.)
+* Sep 13. Matt Raible (Okta)
+* Sep 26-28. JCONF.DEV (20% coupon: 3SNP98EF9WY4TXMH)
