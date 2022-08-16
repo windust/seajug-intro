@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-07-11
+2022-08-16
 
-## Discover Secure RSocket Microservices with Spring Boot!
+## Hacking the OSS Supply Chain (Stephen Chin)
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
