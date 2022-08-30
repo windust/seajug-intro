@@ -1,6 +1,7 @@
-## Speaker(s): Stephen Chin
+## Speaker(s): Venkat Subramaniam
 
-- VP of Developer Relations at JFrog
-- The Definitive Guide to Modern Client Development, Raspberry Pi with Java, Pro JavaFX Platform
-- Keynoted swampUP, Devoxx, JNation, JavaOne, Joker, and Open Source India
-- Avid motorcyclist
+- Award-winning author (many books)
+- Founder of Agile Developer, Inc., creator of agilelearner.com
+- Professor at University of Houston
+- Trained and mentored thousands of software developers
+- Frequent speaker at international conferences

@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-08-16
+2022-08-30
 
-## Hacking the OSS Supply Chain (Stephen Chin)
+## Imperative vs. Functional: Which one to Choose
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,306** members
+* **2,344** members
 * Virtual meetings for 2021-2022
 * In-person 2022 YAY!
 
@@ -60,6 +60,7 @@ or in other words...
 
 ## Upcoming Events
 
-* Aug 30. Venkat Subramaniam (Agile Developer, Inc.)
 * Sep 13. Matt Raible (Okta)
+* Oct 25. Gerrit Grunwald (Azul)
 * Sep 26-28. JCONF.DEV (20% coupon: 3SNP98EF9WY4TXMH)
+* Oct 17-20 JavaOne
