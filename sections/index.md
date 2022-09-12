@@ -65,8 +65,8 @@ or in other words...
 
 * Sep 26-28. JCONF.DEV (20% coupon: 3SNP98EF9WY4TXMH)
 * Sep 30-Oct 02. NFJS Seattle
-* Oct 17-20 JavaOne
-* Dec 06-08 SpringOne
+* Oct 17-20. JavaOne
+* Dec 06-08. SpringOne
 
 --section--
 
