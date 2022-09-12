@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-08-30
+2022-09-13
 
-## Imperative vs. Functional: Which one to Choose
+## Comparing Native Java REST API Frameworks
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,344** members
+* **2,352** members
 * Virtual meetings for 2021-2022
 * In-person 2022 YAY!
 
@@ -60,7 +60,10 @@ or in other words...
 
 ## Upcoming Events
 
-* Sep 13. Matt Raible (Okta)
-* Oct 25. Gerrit Grunwald (Azul)
+* Oct 25. Gerrit Grunwald (Azul) about Superfast JVM startup
+* Nov 15. Josh Long about Spring Boot 3
+
 * Sep 26-28. JCONF.DEV (20% coupon: 3SNP98EF9WY4TXMH)
+* Sep 30-Oct 02. NFJS Seattle
 * Oct 17-20 JavaOne
+* Dec 06-08 SpringOne
