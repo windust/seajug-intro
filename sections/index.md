@@ -60,13 +60,8 @@ or in other words...
 
 ## Upcoming Events
 
-* Oct 25. Gerrit Grunwald (Azul) about Superfast JVM startup
 * Nov 15. Josh Long about Spring Boot 3
-
-* Sep 26-28. JCONF.DEV (20% coupon: 3SNP98EF9WY4TXMH)
-* Sep 30-Oct 02. NFJS Seattle
-* Oct 17-20. JavaOne
-* Dec 06-08. SpringOne
+* Dec 06-08. SpringOne (20% discount: S1VM22_Field_200)
 
 --section--
 
