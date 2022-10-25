@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-09-13
+2022-10-25
 
-## Comparing Native Java REST API Frameworks
+## What the CRaC - Superfast JVM startup
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,9 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,352** members
-* Virtual meetings for 2021-2022
-* In-person 2022 YAY!
+* **2,375** members
 
 --section--
 
@@ -75,17 +73,24 @@ or in other words...
 
 # Sponsors
 
-<img src="images/jfrog.png" style="border: none; background-color: white; height: 150px" />
+<img src="images/azul.png" style="border: none; background-color: white; height: 150px" />
 
 <img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 150px" />
 
+<img src="images/microsoft.png" style="border: none; background-color: white; height: 150px" />
+
 --section--
 
-## Speaker(s): Matt Raible
+## Speaker(s): Gerrit Grunwald
 
-- Well-known figure in the Java community
-- Has been building web applications for most of his adult life
-- Java Champion and Developer Advocate at Okta
-- Frequent contributor to open source
-- Member of the bad-ass JHipster development team
-- Find him on twitter: @mraible (he has awesome VW content)
+- 40 years coding
+- Believer in OSS
+- JFXtras.org / (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas)
+- http://harmonic-code.org
+- Java User Group Münster (Germany)
+- JavaOne Rockstar AND Java Champion
+- Find him on twitter: @hansolo_
+
+--section--
+
+<img src="images/gerrit.png" style="border: none; background-color: white; width: 600px" />
