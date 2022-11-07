@@ -58,9 +58,6 @@ or in other words...
 
 ## Upcoming Events
 
-* Nov 15. Josh Long about Spring Boot 3
-* Dec 06-08. SpringOne (20% discount: S1VM22_Field_200)
-
 --section--
 
 # Logistics
