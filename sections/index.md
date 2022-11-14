@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-10-25
+2022-11-15
 
-## What the CRaC - Superfast JVM startup
+## Bootiful Spring Boot 3
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-* **2,375** members
+* **2,396** members
 
 --section--
 
@@ -70,24 +70,16 @@ or in other words...
 
 # Sponsors
 
-<img src="images/azul.png" style="border: none; background-color: white; height: 150px" />
-
 <img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 150px" />
 
-<img src="images/microsoft.png" style="border: none; background-color: white; height: 150px" />
+<img src="images/jfrog.png" style="border: none; background-color: white; height: 150px" />
 
 --section--
 
-## Speaker(s): Gerrit Grunwald
+## Speaker(s): Josh Long
 
-- 40 years coding
-- Believer in OSS
-- JFXtras.org / (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas)
-- http://harmonic-code.org
-- Java User Group Münster (Germany)
-- JavaOne Rockstar AND Java Champion
-- Find him on twitter: @hansolo_
-
---section--
-
-<img src="images/gerrit.png" style="border: none; background-color: white; width: 600px" />
+- First Spring Developer Advocate
+- Java Champion
+- Author (Cloud Native Java, Spring Cloud and Cloud Foundry, and Reactive Spring)
+- OSS Contributor
+- Podcaster (A Bootiful Podcast) and YouTuber
