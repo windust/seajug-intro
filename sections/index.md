@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-11-15
+2022-12-13
 
-## Bootiful Spring Boot 3
+## Temporal.io
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,11 +52,13 @@ or in other words...
 
 ## Useful stats
 
-* **2,396** members
+* **2,404** members
 
 --section--
 
 ## Upcoming Events
+
+Virtual SpringOne (January 24-26, free)
 
 --section--
 
@@ -70,16 +72,18 @@ or in other words...
 
 # Sponsors
 
-<img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 150px" />
+<img src="images/disney-logo.jpg" style="border: none; background-color: white; height: 150px" />
+<img src="images/xpansiv-logo.png" style="border: none; background-color: white; height: 150px" />
+
+<img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 100px" />
 
 <img src="images/jfrog.png" style="border: none; background-color: white; height: 150px" />
 
 --section--
 
-## Speaker(s): Josh Long
+## Speaker(s): Konstantin Ignatyev
 
-- First Spring Developer Advocate
-- Java Champion
-- Author (Cloud Native Java, Spring Cloud and Cloud Foundry, and Reactive Spring)
-- OSS Contributor
-- Podcaster (A Bootiful Podcast) and YouTuber
+- Hands-on Architect
+- Many years of industry experience at small, medium, and big companies
+- Focused on products
+- Helping humanity to address climate change at Xpansiv
