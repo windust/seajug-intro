@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2022-12-13
+2023-02-21
 
-## Temporal.io
+## How Java Apps Litter Beyond the Heap (And What We Can Do About That)
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -31,8 +31,8 @@ Seattle Java User Group is dedicated to the helping you.
 
 * Do you want to volunteer?
 * Would like to speak at SeaJUG?
-* Reach out! Talk to any of the SeaJUG organizers, OR drop us a line
-* leadership@seajug.org
+* Reach out! Talk to any of the SeaJUG organizers
+* Drop us a line: `leadership@seajug.org`
 
 --section--
 
@@ -52,13 +52,13 @@ or in other words...
 
 ## Useful stats
 
-* **2,404** members
+**2,410** members
 
 --section--
 
 ## Upcoming Events
 
-Virtual SpringOne (January 24-26, free)
+Apr 4-6 Devnexus ($200 off with code: SEATTLEJUG)
 
 --section--
 
@@ -72,18 +72,15 @@ Virtual SpringOne (January 24-26, free)
 
 # Sponsors
 
-<img src="images/disney-logo.jpg" style="border: none; background-color: white; height: 150px" />
-<img src="images/xpansiv-logo.png" style="border: none; background-color: white; height: 150px" />
-
 <img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 100px" />
 
 <img src="images/jfrog.png" style="border: none; background-color: white; height: 150px" />
 
 --section--
 
-## Speaker(s): Konstantin Ignatyev
+## Speaker(s): Denis Magda
 
-- Hands-on Architect
-- Many years of industry experience at small, medium, and big companies
-- Focused on products
-- Helping humanity to address climate change at Xpansiv
+- Expert of distributed systems and databases
+- Head of DevRel at Yugabyte
+- Previously worked on GridGain and Apache Ignite
+- Led one of the Java development groups at Sun/Oracle
