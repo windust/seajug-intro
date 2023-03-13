@@ -72,9 +72,11 @@ Apr 4-6 Devnexus ($200 off with code: SEATTLEJUG)
 
 # Sponsors
 
+<img src="images/fusion-auth.svg" style="border: none; background-color: white; height: 125px" />
+
 <img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 100px" />
 
-<img src="images/jfrog.png" style="border: none; background-color: white; height: 150px" />
+<img src="images/jfrog.png" style="border: none; background-color: white; height: 200px" />
 
 --section--
 
