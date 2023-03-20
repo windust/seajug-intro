@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-02-21
+2023-03-21
 
-## How Java Apps Litter Beyond the Heap (And What We Can Do About That)
+## Java on ARM - New horizons
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -80,9 +80,11 @@ Apr 4-6 Devnexus ($200 off with code: SEATTLEJUG)
 
 --section--
 
-## Speaker(s): Denis Magda
+## Speaker(s): Dmitry Chuyko
 
-- Expert of distributed systems and databases
-- Head of DevRel at Yugabyte
-- Previously worked on GridGain and Apache Ignite
-- Led one of the Java development groups at Sun/Oracle
+- Performance engineer at BellSoft
+- OpenJDK committer
+- Public speaker
+- Prior to BellSoft, he worked on the Hotpot JVM at Oracle
+- Ccurrently focused on optimizing HotSpot for x86 and ARM
+- and has also been involved in rolling out JEP 386 (small JDK containers)
