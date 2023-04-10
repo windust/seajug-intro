@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-03-21
+2023-04-18
 
-## Java on ARM - New horizons
+## OpenRewrite: Where the code fixes itself (plus all the dependencies)
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -58,8 +58,6 @@ or in other words...
 
 ## Upcoming Events
 
-Apr 4-6 Devnexus ($200 off with code: SEATTLEJUG)
-
 --section--
 
 # Logistics
@@ -80,11 +78,9 @@ Apr 4-6 Devnexus ($200 off with code: SEATTLEJUG)
 
 --section--
 
-## Speaker(s): Dmitry Chuyko
+## Speaker(s): Sam Snyder
 
-- Performance engineer at BellSoft
-- OpenJDK committer
-- Public speaker
-- Prior to BellSoft, he worked on the Hotpot JVM at Oracle
-- Ccurrently focused on optimizing HotSpot for x86 and ARM
-- and has also been involved in rolling out JEP 386 (small JDK containers)
+- Spent the past decade improving developer happiness with better tooling
+- Tableau: improving development and deployment pipeline
+- Gradle Enterprise
+- VP of Engineering at Moderne
