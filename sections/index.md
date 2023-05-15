@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-04-18
+2023-05-16
 
-## OpenRewrite: Where the code fixes itself (plus all the dependencies)
+## The Not So Subtle Price of Microservices
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -58,6 +58,9 @@ or in other words...
 
 ## Upcoming Events
 
+- SpringOne - August 21–24, Las Vegas
+- JConf? - September?, Chicago
+
 --section--
 
 # Logistics
@@ -78,9 +81,12 @@ or in other words...
 
 --section--
 
-## Speaker(s): Sam Snyder
+## Speaker(s): Freddy Guime
 
-- Spent the past decade improving developer happiness with better tooling
-- Tableau: improving development and deployment pipeline
-- Gradle Enterprise
-- VP of Engineering at Moderne
+- SeaJUG co-organizer :)
+- Distinguished Principal Developer at Expedia
+- Always dealing with performance and usability
+- Vast Java experience
+- International Speaker
+- Usability Guru
+- All-around nice guy
