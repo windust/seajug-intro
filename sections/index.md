@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-05-16
+2023-06-20
 
-## The Not So Subtle Price of Microservices
+## Coding with the lights ON - OpenTelemetry from code to prod
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -81,12 +81,10 @@ or in other words...
 
 --section--
 
-## Speaker(s): Freddy Guime
+## Speaker(s): Roni Dover
 
-- SeaJUG co-organizer :)
-- Distinguished Principal Developer at Expedia
-- Always dealing with performance and usability
-- Vast Java experience
-- International Speaker
-- Usability Guru
-- All-around nice guy
+- Holistic developer and software builder with a passion for development processes and methodologies
+- Incepting, building, and scaling great products
+  - Torque, an IAC Control Plane
+  - CloudShell, a platform for 'as-a-service' provisioning of environments
+- Currently building something exciting and new at digma.ai
