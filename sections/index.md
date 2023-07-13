@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-06-20
+2023-07-18
 
-## Coding with the lights ON - OpenTelemetry from code to prod
+## Observability of Modern JVM/Spring Applications
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,14 +52,13 @@ or in other words...
 
 ## Useful stats
 
-**2,410** members
+**2,412** members
 
 --section--
 
 ## Upcoming Events
 
 - SpringOne - August 21–24, Las Vegas
-- JConf? - September?, Chicago
 
 --section--
 
@@ -81,10 +80,8 @@ or in other words...
 
 --section--
 
-## Speaker(s): Roni Dover
+## Speaker(s): Jonatan Ivanov
 
-- Holistic developer and software builder with a passion for development processes and methodologies
-- Incepting, building, and scaling great products
-  - Torque, an IAC Control Plane
-  - CloudShell, a platform for 'as-a-service' provisioning of environments
-- Currently building something exciting and new at digma.ai
+- Spring Team
+- Micrometer, Spring Cloud, Spring Boot
+- Speaker, Author, Certified dragon trainer
