@@ -25,4 +25,5 @@ Then point your browser at [http://localhost:8000](http://localhost:8000)
 
 ## Production
 
-The project is hosted on GitHub Pages: https://windust.github.io/seajug-intro/
+The project is hosted on GitHub Pages and available at https://seajug.org/intro
+or https://windust.github.io/seajug-intro/
