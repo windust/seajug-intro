@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-07-18
+2023-08-22
 
-## Observability of Modern JVM/Spring Applications
+## Practical introduction to OpenTelemetry Tracing
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,13 +52,11 @@ or in other words...
 
 ## Useful stats
 
-**2,412** members
+**2,418** members
 
 --section--
 
 ## Upcoming Events
-
-- SpringOne - August 21–24, Las Vegas
 
 --section--
 
@@ -80,8 +78,9 @@ or in other words...
 
 --section--
 
-## Speaker(s): Jonatan Ivanov
+## Speaker(s): Nicolas Fränkel
 
-- Spring Team
-- Micrometer, Spring Cloud, Spring Boot
-- Speaker, Author, Certified dragon trainer
+- Developer Advocate with 15+ years experience
+- Consulting for many different customers, in a wide range of contexts
+- Usually working on Java/Java EE and Spring technologies
+- Trainer and book author
