@@ -1,6 +1,6 @@
 # SeaJUG Meeting Introduction Template
 
-This template uses [Reveal.js](https://github.com/hakimel/reveal.js/) to construct a meeting intro for the Chicago Java Users Group. 
+This template uses [Reveal.js](https://github.com/hakimel/reveal.js/) to construct a meeting intro for the Seattle Java Users Group. 
 
 ## Creating an intro
 
