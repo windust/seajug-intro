@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-08-22
+2023-09-19
 
-## Practical introduction to OpenTelemetry Tracing
+## Java meets TypeScript: full-stack reactive web apps with Spring Boot and React
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-**2,418** members
+**2,431** members
 
 --section--
 
@@ -78,9 +78,11 @@ or in other words...
 
 --section--
 
-## Speaker(s): Nicolas Fränkel
+## Speaker(s): Marcus Hellberg
 
-- Developer Advocate with 15+ years experience
-- Consulting for many different customers, in a wide range of contexts
-- Usually working on Java/Java EE and Spring technologies
-- Trainer and book author
+- Long-time Java and web developer
+- Always curious to learn new things
+- Interested in combining modern web technologies and Java
+- Loves teaching developers about cool new technologies
+- Has presented at over 100 conferences and user groups
+- Leads Developer Relations at Vaadin
