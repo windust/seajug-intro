@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-09-19
+2023-11-06
 
-## Java meets TypeScript: full-stack reactive web apps with Spring Boot and React
+## Boosting Similarity Search With Real-time Stream Processing
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-**2,431** members
+**2,463** members
 
 --section--
 
@@ -78,11 +78,11 @@ or in other words...
 
 --section--
 
-## Speaker(s): Marcus Hellberg
+## Speaker(s): Fawaz Ghali
 
-- Long-time Java and web developer
-- Always curious to learn new things
-- Interested in combining modern web technologies and Java
-- Loves teaching developers about cool new technologies
-- Has presented at over 100 conferences and user groups
-- Leads Developer Relations at Vaadin
+- Principal Data Science Architect
+- Head of Developer Relations at Hazelcast
+- With +22 years of experience
+- PhD in Computer Science
+- Published +45 scientific peer-reviewed papers
+- Renowned expert with +200 talks and presentations
