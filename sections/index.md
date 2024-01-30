@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2023-11-06
+2024-01-30
 
-## Boosting Similarity Search With Real-time Stream Processing
+## From Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -52,7 +52,7 @@ or in other words...
 
 ## Useful stats
 
-**2,463** members
+**2,477** members
 
 --section--
 
@@ -78,11 +78,13 @@ or in other words...
 
 --section--
 
-## Speaker(s): Fawaz Ghali
+## Speaker(s): Ivar Grimstad
 
-- Principal Data Science Architect
-- Head of Developer Relations at Hazelcast
-- With +22 years of experience
-- PhD in Computer Science
-- Published +45 scientific peer-reviewed papers
-- Renowned expert with +200 talks and presentations
+- Jakarta EE Developer Advocate
+- Java Champion and JUG Leader
+- Jakarta EE specs contributor
+- PMC Lead for Eclipse Enterprise for Java (EE4J)
+- Spec lead for Jakarta MVC
+- Eclipse Foundation representative in the JCP Executive Committee
+- Involved in MicroProfile, Apache NetBeans, and a wide range of other open-source projects and communities
+- Frequent speaker at International developer conferences
