@@ -1,8 +1,9 @@
 ## Seattle Java User Group
 
-2024-01-30
+2024-02-20
 
-## From Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE
+## Using AI to Deploy Java apps to Kubernetes AND An introduction to LangChain4J
+
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
 
@@ -78,13 +79,14 @@ or in other words...
 
 --section--
 
-## Speaker(s): Ivar Grimstad
+## Speaker(s): Sandra Ahlgrimm
+ - Berlin JUG Leader
+ - Berlin Docker Meetup
+ - Java Dev > 10 Years
 
-- Jakarta EE Developer Advocate
-- Java Champion and JUG Leader
-- Jakarta EE specs contributor
-- PMC Lead for Eclipse Enterprise for Java (EE4J)
-- Spec lead for Jakarta MVC
-- Eclipse Foundation representative in the JCP Executive Committee
-- Involved in MicroProfile, Apache NetBeans, and a wide range of other open-source projects and communities
-- Frequent speaker at International developer conferences
+## Speaker(s): Brian Benz
+
+- Java Champion
+- Cloud Advocate for Azure
+- Author (IBM / Deloitte)
+- @bbenz
