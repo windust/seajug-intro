@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-02-20
+2024-05-21
 
-## Using AI to Deploy Java apps to Kubernetes AND An introduction to LangChain4J
+## The Secret Lives of Java Apps: Stories told at Runtime
 
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
@@ -53,11 +53,15 @@ or in other words...
 
 ## Useful stats
 
-**2,477** members
+**2,496** members
 
 --section--
 
 ## Upcoming Events
+
+- 2024-05-29 - Spring I/O (Barcelona, Spain)
+- 2024-09-24 - jconf (Dallas, TX)
+- 2024-09-30 - dev2next (Lone Tree, CO)
 
 --section--
 
@@ -79,14 +83,8 @@ or in other words...
 
 --section--
 
-## Speaker(s): Sandra Ahlgrimm
- - Berlin JUG Leader
- - Berlin Docker Meetup
- - Java Dev > 10 Years
-
-## Speaker(s): Brian Benz
-
-- Java Champion
-- Cloud Advocate for Azure
-- Author (IBM / Deloitte)
-- @bbenz
+## Speaker(s): Chris Phillipson
+- Leads solutions architects in the Tanzu Division at Broadcom
+- His team consults with Fortune 100 enterprise accounts
+- He has spent three decades in enterprise software development
+- Chris enjoys attending music concerts and festivals, traveling with family, watching football, and preparing meals
