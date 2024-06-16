@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-05-21
+2024-06-18
 
-## The Secret Lives of Java Apps: Stories told at Runtime
+## To Java 23 and beyond!
 
 
 <img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
@@ -53,15 +53,16 @@ or in other words...
 
 ## Useful stats
 
-**2,496** members
+**2,498** members
 
 --section--
 
 ## Upcoming Events
 
-- 2024-05-29 - Spring I/O (Barcelona, Spain)
 - 2024-09-24 - jconf (Dallas, TX)
 - 2024-09-30 - dev2next (Lone Tree, CO)
+  - coupon: SEATTLE-JUG
+  - agiledeveloper.com/dev2next/seattle.html
 
 --section--
 
@@ -79,12 +80,10 @@ or in other words...
 
 <img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 100px" />
 
-<img src="images/jfrog.png" style="border: none; background-color: white; height: 200px" />
-
 --section--
 
-## Speaker(s): Chris Phillipson
-- Leads solutions architects in the Tanzu Division at Broadcom
-- His team consults with Fortune 100 enterprise accounts
-- He has spent three decades in enterprise software development
-- Chris enjoys attending music concerts and festivals, traveling with family, watching football, and preparing meals
+## Speaker(s): Billy Korando
+- Developer Advocate with the Java Platform Group at Oracle
+- Over a decade of experience in Java
+- Helps developers find ways to reduce tedious work, such as project initiation, deployment, testing, and validation, through automation and adopting the latest features and tools in the Java ecosystem
+- Co-organizes the Kansas City JUG
