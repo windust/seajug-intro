@@ -53,7 +53,7 @@ or in other words...
 
 ## Useful stats
 
-**2,498** members
+**2,502** members
 
 --section--
 
@@ -63,6 +63,16 @@ or in other words...
 - 2024-09-30 - dev2next (Lone Tree, CO)
   - coupon: SEATTLE-JUG
   - agiledeveloper.com/dev2next/seattle.html
+
+--section--
+
+## Oracle Certified Professional: Java 17
+
+- Java 17 certification exam study group
+- 5 sessions, 2 hours each
+- July 3, 10, 17, 24, 31 (Wednesdays)
+- (Mock session: May 26)
+- Venue: likely VMware Bellevue
 
 --section--
 
@@ -84,6 +94,7 @@ or in other words...
 
 ## Speaker(s): Billy Korando
 - Developer Advocate with the Java Platform Group at Oracle
+- Java Champion
 - Over a decade of experience in Java
 - Helps developers find ways to reduce tedious work, such as project initiation, deployment, testing, and validation, through automation and adopting the latest features and tools in the Java ecosystem
 - Co-organizes the Kansas City JUG
