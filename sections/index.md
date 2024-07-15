@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-06-18
+2024-07-16
 
-## To Java 23 and beyond!
+## Macro-Optimizing Spring Applications
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,26 +50,17 @@ or in other words...
 
 ## Useful stats
 
-**2,502** members
+**2,506** members
 
 --section--
 
 ## Upcoming Events
 
+- 2024-08-26 - SpringOne (Hybrid: Online + Vegas)
 - 2024-09-24 - jconf (Dallas, TX)
 - 2024-09-30 - dev2next (Lone Tree, CO)
   - coupon: SEATTLE-JUG
   - agiledeveloper.com/dev2next/seattle.html
-
---section--
-
-## Oracle Certified Professional: Java 17
-
-- Java 17 certification exam study group
-- 5 sessions, 2 hours each
-- July 3, 10, 17, 24, 31 (Wednesdays)
-- (Mock session: May 26)
-- Venue: likely VMware Bellevue
 
 --section--
 
@@ -83,15 +74,21 @@ or in other words...
 
 # Sponsors
 
-<img src="images/fusion-auth.svg" style="border: none; background-color: white; height: 125px" />
+<img src="images/digma-logo.png" style="height: 250px" />
 
-<img src="images/vmware-logo.svg" style="border: none; background-color: white; height: 100px" />
+<img src="images/fusion-auth.svg" style="background-color: white; height: 125px" />
+
+<img src="images/vmware-logo.svg" style="background-color: white; height: 100px" />
 
 --section--
 
-## Speaker(s): Billy Korando
-- Developer Advocate with the Java Platform Group at Oracle
-- Java Champion
-- Over a decade of experience in Java
-- Helps developers find ways to reduce tedious work, such as project initiation, deployment, testing, and validation, through automation and adopting the latest features and tools in the Java ecosystem
-- Co-organizes the Kansas City JUG
+## Speaker(s): Roni Dover
+- Developer and builder for the past 25 years
+- Afflicted by an acute Product Manager/Developer split personality
+- Writing and talking about inefficiencies and blindspots
+- Ranting about design/architecture topics
+- Big believer in evidence-based development and a proponent of Continuous Feedback
+- Incepting, building, and scaling infrastructure automation platforms
+  - Torque, an IAC Control Plane
+  - CloudShell, a platform for 'as-a-service' provisioning of environments
+- CTO and co-founder of Digma (digma.ai), an IDE plugin for automating issue detection in observability data
