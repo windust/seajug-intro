@@ -4,8 +4,7 @@
 
 ## To Java 23 and beyond!
 
-
-<img width="450" src="images/seajug.svg" style="background-color: transparent; border: none; box-shadow: none;" />
+<img width="450" src="images/seajug.svg" />
 
 --section--
 
@@ -45,9 +44,7 @@ Seattle Java User Group is dedicated to the helping you.
 * Be polite, have positive intent
 
 or in other words...
-<div >
-    <img height=400px src="images/nice.jpg" />
-</div>
+<div><img height=400px src="images/nice.jpg" /></div>
 
 --section--
 
