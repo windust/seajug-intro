@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-07-16
+2024-08-06
 
-## Macro-Optimizing Spring Applications
+## Give Your LLMs a Left Brain<br>&<br>Raising Young Coders
 
 <img width="450" src="images/seajug.svg" />
 
@@ -75,21 +75,21 @@ or in other words...
 
 # Sponsors
 
-<img src="images/digma-logo.png" style="height: 250px" />
-
 <img src="images/fusion-auth.svg" style="background-color: white; height: 125px" />
 
 <img src="images/vmware-logo.svg" style="background-color: white; height: 100px" />
 
 --section--
 
-## Speaker(s): Roni Dover
-- Developer and builder for the past 25 years
-- Afflicted by an acute Product Manager/Developer split personality
-- Writing and talking about inefficiencies and blindspots
-- Ranting about design/architecture topics
-- Big believer in evidence-based development and a proponent of Continuous Feedback
-- Incepting, building, and scaling infrastructure automation platforms
-  - Torque, an IAC Control Plane
-  - CloudShell, a platform for 'as-a-service' provisioning of environments
-- CTO and co-founder of Digma (digma.ai), an IDE plugin for automating issue detection in observability data
+## Cassandra Chin
+- keynote speaker
+- book author
+- children's workshop instructor
+- college student getting a CS degree
+<br><br>
+
+## Stephen Chin
+- keynote speaker
+- book author
+- avid motorcyclist
+- VP of Developer Relations at Neo4j
