@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,506** members
+**2,508** members
 
 --section--
 
