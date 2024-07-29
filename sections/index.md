@@ -58,6 +58,7 @@ or in other words...
 
 - 2024-08-26 - SpringOne (Hybrid: Online + Vegas)
 - 2024-09-24 - jconf (Dallas, TX)
+  - coupon: SEEMESPEAK
 - 2024-09-30 - dev2next (Lone Tree, CO)
   - coupon: SEATTLE-JUG
   - agiledeveloper.com/dev2next/seattle.html
