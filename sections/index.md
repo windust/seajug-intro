@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-08-06
+2024-09-17
 
-## Give Your LLMs a Left Brain<br>&<br>Raising Young Coders
+## Next Gen Testing Tools for Java
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,13 +50,12 @@ or in other words...
 
 ## Useful stats
 
-**2,508** members
+**2,526** members
 
 --section--
 
 ## Upcoming Events
 
-- 2024-08-26 - SpringOne (Hybrid: Online + Vegas)
 - 2024-09-24 - jconf (Dallas, TX)
   - coupon: SEEMESPEAK
 - 2024-09-30 - dev2next (Lone Tree, CO)
@@ -81,15 +80,10 @@ or in other words...
 
 --section--
 
-## Cassandra Chin
-- keynote speaker
-- book author
-- children's workshop instructor
-- college student getting a CS degree
-<br><br>
-
-## Stephen Chin
-- keynote speaker
-- book author
-- avid motorcyclist
-- VP of Developer Relations at Neo4j
+## Daniel Hinojosa
+- programmer, consultant, instructor, speaker, and author
+- over 20 years of experience
+- he does work for private, educational, and government institutions
+- loves JVM languages but also works with non-JVM languages
+- avid Pomodoro Technique Practitioner
+- makes every attempt to learn a new programming language every year
