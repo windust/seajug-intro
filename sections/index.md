@@ -61,6 +61,8 @@ or in other words...
 - 2024-09-30 - dev2next (Lone Tree, CO)
   - coupon: SEATTLE-JUG
   - agiledeveloper.com/dev2next/seattle.html
+- 2024-03-21 - NFJS Seattle
+  - Raffle!
 
 --section--
 
