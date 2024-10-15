@@ -2,7 +2,7 @@
 
 2024-09-17
 
-## Next Gen Testing Tools for Java
+## Java Community Process: What’s new with the JCP
 
 <img width="450" src="images/seajug.svg" />
 
@@ -56,13 +56,6 @@ or in other words...
 
 ## Upcoming Events
 
-- 2024-09-24 - jconf (Dallas, TX)
-  - coupon: SEEMESPEAK
-- 2024-09-30 - dev2next (Lone Tree, CO)
-  - coupon: SEATTLE-JUG
-  - agiledeveloper.com/dev2next/seattle.html
-- 2024-03-21 - NFJS Seattle
-  - Raffle!
 
 --section--
 
@@ -82,10 +75,8 @@ or in other words...
 
 --section--
 
-## Daniel Hinojosa
-- programmer, consultant, instructor, speaker, and author
-- over 20 years of experience
-- he does work for private, educational, and government institutions
-- loves JVM languages but also works with non-JVM languages
-- avid Pomodoro Technique Practitioner
-- makes every attempt to learn a new programming language every year
+## Heather VanCura
+- JCP Executive Committee Chair
+- Oversees the development of Java technology standards
+- Directs the MySQL Community/Developer Relations team at Oracle
+- International Speaker / Podcaster (BragTalks!)
