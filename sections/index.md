@@ -1,6 +1,6 @@
 ## Seattle Java User Group
 
-2024-09-17
+2024-10-15
 
 ## Java Community Process: What’s new with the JCP
 
