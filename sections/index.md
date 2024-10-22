@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-10-15
+2024-10-22
 
-## Java Community Process: What’s new with the JCP
+## DataFrame - a Swiss Army Knife of Java Data Processing
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,12 +50,13 @@ or in other words...
 
 ## Useful stats
 
-**2,526** members
+**2,541** members
 
 --section--
 
 ## Upcoming Events
 
+- 2024-03-21 - NFJS Seattle
 
 --section--
 
@@ -75,8 +76,13 @@ or in other words...
 
 --section--
 
-## Heather VanCura
-- JCP Executive Committee Chair
-- Oversees the development of Java technology standards
-- Directs the MySQL Community/Developer Relations team at Oracle
-- International Speaker / Podcaster (BragTalks!)
+## Andrus Adamchik
+- Passionate open-source developer
+- Member of the Apache Software Foundation
+- Started programming in Java back in 1998
+- Founded a number of open-source projects
+  - Apache Cayenne - a developer-friendly ORM
+  - Bootique.io - a lightweight Java app platform
+  - Agrest.io - a framework for dynamic REST services
+  - DFLib - DataFrame for Java
+- Running a software company called ObjectStyle.
