@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-10-22
+2024-11-19
 
-## DataFrame - a Swiss Army Knife of Java Data Processing
+## Jackson Library, Project: The Past, the Present and the Future
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,13 +50,13 @@ or in other words...
 
 ## Useful stats
 
-**2,541** members
+**2,546** members
 
 --section--
 
 ## Upcoming Events
 
-- 2024-03-21 - NFJS Seattle
+- 2025-03-21 - NFJS Seattle
 
 --section--
 
@@ -76,13 +76,7 @@ or in other words...
 
 --section--
 
-## Andrus Adamchik
-- Passionate open-source developer
-- Member of the Apache Software Foundation
-- Started programming in Java back in 1998
-- Founded a number of open-source projects
-  - Apache Cayenne - a developer-friendly ORM
-  - Bootique.io - a lightweight Java app platform
-  - Agrest.io - a framework for dynamic REST services
-  - DFLib - DataFrame for Java
-- Running a software company called ObjectStyle.
+## Tatu Saloranta
+- Seasoned software developer
+- Has been programming for the past 40 years
+- Maintains open-source projects like Jackson, Woodstox (XML), Java UUID Generator, and many others
