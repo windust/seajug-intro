@@ -56,7 +56,10 @@ or in other words...
 
 ## Upcoming Events
 
-- 2025-03-21 - NFJS Seattle
+- 2025-02-26 - ConFoo (Montréal)
+- 2025-03-04 - Devnexus (Atlanta)
+- 2025-03-18 - JavaOne (San Fransisco)
+- 2025-03-21 - NFJS Seattle (Redmond)
 
 --section--
 
