@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-11-19
+2024-12-12
 
-## Jackson Library, Project: The Past, the Present and the Future
+## Spring AI: Where Java Becomes Your GenAI Huckleberry
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,16 +50,18 @@ or in other words...
 
 ## Useful stats
 
-**2,546** members
+**2,552** members
 
 --section--
 
 ## Upcoming Events
 
-- 2025-02-26 - ConFoo (Montréal)
-- 2025-03-04 - Devnexus (Atlanta)
-- 2025-03-18 - JavaOne (San Fransisco)
-- 2025-03-21 - NFJS Seattle (Redmond)
+- 2025-01-23 - jChampions Conference (virtual)
+- 2025-02-26 - ConFoo (Montréal, Canada)
+- 2025-03-04 - Devnexus (Atlanta, GA)
+- 2025-03-18 - JavaOne (Redwood Shores, CA)
+- 2025-03-21 - NFJS Seattle (Redmond, WA)
+- 2025-04-09 - MS JDConf (virtual)
 
 --section--
 
@@ -79,7 +81,7 @@ or in other words...
 
 --section--
 
-## Tatu Saloranta
-- Seasoned software developer
-- Has been programming for the past 40 years
-- Maintains open-source projects like Jackson, Woodstox (XML), Java UUID Generator, and many others
+## Chris Phillipson
+- Seasoned leader and empathetic mentor
+- With over 30 years of experience in software development
+- Solution selling, open-source evangelism, and scaling platforms and architectures
