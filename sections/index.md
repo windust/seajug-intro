@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2024-12-12
+2025-01-21
 
-## Spring AI: Where Java Becomes Your GenAI Huckleberry
+## Codebase Resurrection: Revive and Refactor with AI
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,552** members
+**2,589** members
 
 --section--
 
@@ -61,7 +61,12 @@ or in other words...
 - 2025-03-04 - Devnexus (Atlanta, GA)
 - 2025-03-18 - JavaOne (Redwood Shores, CA)
 - 2025-03-21 - NFJS Seattle (Redmond, WA)
-- 2025-04-09 - MS JDConf (virtual)
+- 2025-03-31 - Arc of AI (Austin, TX)
+- 2025-04-09 - MS JDConf (virtual) CFP: 2025-01-24
+
+---
+
+Raffle: JavaOne pass
 
 --section--
 
@@ -81,7 +86,9 @@ or in other words...
 
 --section--
 
-## Chris Phillipson
-- Seasoned leader and empathetic mentor
-- With over 30 years of experience in software development
-- Solution selling, open-source evangelism, and scaling platforms and architectures
+## David Parry
+- Principal Software Developer, 20+ yoe in Java development
+- Building and implementing content management systems
+- Solving critical issues on complex, high-traffic web platforms
+- Mobile and embedded Android TV systems
+- Developer Advocate, he evangelizes the practices that made his past projects successful
