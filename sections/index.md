@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-01-21
+2025-02-18
 
-## Codebase Resurrection: Revive and Refactor with AI
+## Scaling Java Applications using Virtual Threads
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,23 +50,22 @@ or in other words...
 
 ## Useful stats
 
-**2,589** members
+**2,596** members
 
 --section--
 
 ## Upcoming Events
 
-- 2025-01-23 - jChampions Conference (virtual)
 - 2025-02-26 - ConFoo (Montréal, Canada)
-- 2025-03-04 - Devnexus (Atlanta, GA)
+- 2025-03-04 - Devnexus (Atlanta, GA) 40% discount code: DN25JUGS
 - 2025-03-18 - JavaOne (Redwood Shores, CA)
 - 2025-03-21 - NFJS Seattle (Redmond, WA)
-- 2025-03-31 - Arc of AI (Austin, TX)
-- 2025-04-09 - MS JDConf (virtual) CFP: 2025-01-24
+- 2025-03-31 - Arc of AI (Austin, TX) $50 discount code: SEATTLE-JUG
+- 2025-04-09 - MS JDConf (virtual) CFP
 
 ---
 
-Raffle: JavaOne pass
+Raffle: Arc of AI pass
 
 --section--
 
@@ -86,9 +85,11 @@ Raffle: JavaOne pass
 
 --section--
 
-## David Parry
-- Principal Software Developer, 20+ yoe in Java development
-- Building and implementing content management systems
-- Solving critical issues on complex, high-traffic web platforms
-- Mobile and embedded Android TV systems
-- Developer Advocate, he evangelizes the practices that made his past projects successful
+## Dr. Venkat Subramaniam
+- Award-winning author (many technical books)
+- Founder of Agile Developer, Inc.
+- Instructional professor at the University of Houston
+- Creator of dev2next and Arc of AI conferences
+- Trained and mentored thousands of software developers
+- Helps his clients effectively apply and succeed with sustainable agile practices
+- One of the most famous speaker at international conferences
