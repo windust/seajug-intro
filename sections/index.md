@@ -79,9 +79,7 @@ Raffle: Arc of AI pass
 
 # Sponsors
 
-<img src="images/fusion-auth.svg" style="background-color: white; height: 125px" />
-
-<img src="images/vmware-logo.svg" style="background-color: white; height: 100px" />
+<img src="images/azul.svg" style="background-color: white; height: 400px; padding:25px" />
 
 --section--
 
