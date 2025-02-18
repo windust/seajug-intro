@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,596** members
+**2,605** members
 
 --section--
 
@@ -58,7 +58,7 @@ or in other words...
 
 - 2025-02-26 - ConFoo (Montréal, Canada)
 - 2025-03-04 - Devnexus (Atlanta, GA) 40% discount code: DN25JUGS
-- 2025-03-18 - JavaOne (Redwood Shores, CA)
+- 2025-03-18 - JavaOne (Redwood Shores, CA) $100 discount code: J1D100_JUG
 - 2025-03-21 - NFJS Seattle (Redmond, WA)
 - 2025-03-31 - Arc of AI (Austin, TX) $50 discount code: SEATTLE-JUG
 - 2025-04-09 - MS JDConf (virtual) CFP
