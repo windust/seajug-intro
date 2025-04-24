@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-03-11
+2025-04-24
 
-## TrashTalk - Exploring the JVM memory management
+## Java build tooling could be so much better!
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,17 +50,13 @@ or in other words...
 
 ## Useful stats
 
-**2,613** members
+**2,637** members
 
 --section--
 
 ## Upcoming Events
 
-- 2025-03-18 - JavaOne (Redwood Shores, CA)  
-$100 discount: J1D100_JUG
-- 2025-03-31 - Arc of AI (Austin, TX)  
-$50 discount: SEATTLE-JUG
-- 2025-04-09 - MS JDConf (virtual) CFP
+- 2025-09-29 - dev2next
 - 2025-10-10 - NFJS Seattle (Redmond, WA)
 
 --section--
@@ -75,8 +71,8 @@ $50 discount: SEATTLE-JUG
 
 # Sponsors
 
-<img src="images/azul.svg" style="background-color: white; height: 400px; padding:25px" />
+🙁
 
 --section--
 
-## Gerrit Grunwald
+## Haoyi Li
