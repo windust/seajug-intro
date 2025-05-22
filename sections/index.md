@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-04-24
+2025-05-22
 
-## Java build tooling could be so much better!
+## Recent AI tools and technologies for Java developers
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,13 +50,13 @@ or in other words...
 
 ## Useful stats
 
-**2,637** members
+**2,659** members
 
 --section--
 
 ## Upcoming Events
 
-- 2025-09-29 - dev2next
+- 2025-09-29 - dev2next (Colorado Springs, CO)
 - 2025-10-10 - NFJS Seattle (Redmond, WA)
 
 --section--
@@ -75,4 +75,4 @@ or in other words...
 
 --section--
 
-## Haoyi Li
+## Brian Benz & Julien Dubois
