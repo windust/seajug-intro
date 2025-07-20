@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-05-22
+2025-07-22
 
-## Recent AI tools and technologies for Java developers
+## JVM centered tech stack is the competitive advantage for new projects/startups
 
 <img width="450" src="images/seajug.svg" />
 
@@ -75,4 +75,4 @@ or in other words...
 
 --section--
 
-## Brian Benz & Julien Dubois
+## Konstantin Ignatyev
