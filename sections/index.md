@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-07-22
+2025-08-11
 
-## JVM centered tech stack is the competitive advantage for new projects/startups
+## Kotlin Goodies for Testing
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,659** members
+**2,684** members
 
 --section--
 
@@ -75,4 +75,4 @@ or in other words...
 
 --section--
 
-## Konstantin Ignatyev
+## Pasha Finkelshteyn
