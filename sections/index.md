@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-08-11
+2025-08-25
 
-## Kotlin Goodies for Testing
+## How to develop, run and optimize Spring Boot 3 application on AWS Lambda
 
 <img width="450" src="images/seajug.svg" />
 
@@ -75,4 +75,4 @@ or in other words...
 
 --section--
 
-## Pasha Finkelshteyn
+## Vadym Kazulkin
