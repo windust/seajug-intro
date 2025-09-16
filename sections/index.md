@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-08-25
+2025-09-16
 
-## How to develop, run and optimize Spring Boot 3 application on AWS Lambda
+## Pass or Play: What does GenAI mean for the developer
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,684** members
+**2,720** members
 
 --section--
 
@@ -75,4 +75,4 @@ or in other words...
 
 --section--
 
-## Vadym Kazulkin
+## Jennifer Reif
