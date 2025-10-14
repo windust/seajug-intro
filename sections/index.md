@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-09-16
+2025-10-14
 
-## Pass or Play: What does GenAI mean for the developer
+## Code, Confidence & Conquering Self-Doubt: Breaking Impostor Syndrome in Tech
 
 <img width="450" src="images/seajug.svg" />
 
@@ -56,8 +56,8 @@ or in other words...
 
 ## Upcoming Events
 
-- 2025-09-29 - dev2next (Colorado Springs, CO)
-- 2025-10-10 - NFJS Seattle (Redmond, WA)
+- 2026-01-22 - JChampions Conference (virtual)
+- 2026-03-04 - Devnexus (Atlanta, GA)
 
 --section--
 
@@ -71,8 +71,9 @@ or in other words...
 
 # Sponsors
 
-🙁
+# Slalom
+## 🏢 🍔 🥤
 
 --section--
 
-## Jennifer Reif
+## Vincent Mayers
