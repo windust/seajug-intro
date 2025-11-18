@@ -1,8 +1,8 @@
 ## Seattle Java User Group
 
-2025-10-14
+2025-11-18
 
-## Code, Confidence & Conquering Self-Doubt: Breaking Impostor Syndrome in Tech
+## Dependency management for Java applications
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,720** members
+**2,727** members
 
 --section--
 
@@ -58,6 +58,7 @@ or in other words...
 
 - 2026-01-22 - JChampions Conference (virtual)
 - 2026-03-04 - Devnexus (Atlanta, GA)
+- 2026-03-17 - JavaOne (Redwood City, CA)
 
 --section--
 
@@ -71,9 +72,8 @@ or in other words...
 
 # Sponsors
 
-# Slalom
-## 🏢 🍔 🥤
+🙁
 
 --section--
 
-## Vincent Mayers
+## Sean Sullivan
