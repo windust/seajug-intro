@@ -1,4 +1,4 @@
-## Seattle Java User Group
+## Seattle Java/JVM User Group
 
 2025-11-18
 
@@ -10,7 +10,7 @@
 
 ## What is SeaJUG?
 
-Seattle Java User Group is dedicated to the helping you.
+Seattle Java/JVM User Group is dedicated to the helping you.
 
 * Create a vibrant community
 * Learn and contribute to Java / JVM ecosystem
