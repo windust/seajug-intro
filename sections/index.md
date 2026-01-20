@@ -1,8 +1,8 @@
 ## Seattle Java/JVM User Group
 
-2025-11-18
+2026-01-20
 
-## Dependency management for Java applications
+## To Java 26 and Beyond!
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,7 +50,7 @@ or in other words...
 
 ## Useful stats
 
-**2,727** members
+**2,732** members
 
 --section--
 
@@ -59,6 +59,7 @@ or in other words...
 - 2026-01-22 - JChampions Conference (virtual)
 - 2026-03-04 - Devnexus (Atlanta, GA)
 - 2026-03-17 - JavaOne (Redwood City, CA)
+- 2026-04-13 - Spring I/O (Barcelona, Spain)
 
 --section--
 
@@ -76,4 +77,10 @@ or in other words...
 
 --section--
 
-## Sean Sullivan
+## Konstantin Ignatyev
+
+Extension methods for final classes or ones we do not have sources for
+
+## Billy Korando
+
+To Java 26 and Beyond!
