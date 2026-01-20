@@ -56,9 +56,9 @@ or in other words...
 
 ## Upcoming Events
 
-- 2026-01-22 - JChampions Conference (virtual)
-- 2026-03-04 - Devnexus (Atlanta, GA)
-- 2026-03-17 - JavaOne (Redwood City, CA)
+- 2026-01-22 - JChampions Conference (virtual, free)
+- 2026-03-04 - Devnexus (Atlanta, GA) 50% discount: DN26JAVA
+- 2026-03-17 - JavaOne (Redwood City, CA) $50 off: J12026JUG
 - 2026-04-13 - Spring I/O (Barcelona, Spain)
 
 --section--
