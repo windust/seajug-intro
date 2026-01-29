@@ -1,8 +1,8 @@
 ## Seattle Java/JVM User Group
 
-2026-01-20
+2026-01-29
 
-## To Java 26 and Beyond!
+## Scotty, I need Warp Speed - Ways to improve the JVM startup/warmup
 
 <img width="450" src="images/seajug.svg" />
 
@@ -50,13 +50,13 @@ or in other words...
 
 ## Useful stats
 
-**2,732** members
+**2,736** members
 
 --section--
 
 ## Upcoming Events
 
-- 2026-01-22 - JChampions Conference (virtual, free)
+- 2026-01-22 - JChampions Conference (recordings on youtube)
 - 2026-03-04 - Devnexus (Atlanta, GA) 50% discount: DN26JAVA
 - 2026-03-17 - JavaOne (Redwood City, CA) $50 off: J12026JUG
 - 2026-04-13 - Spring I/O (Barcelona, Spain)
@@ -79,8 +79,8 @@ or in other words...
 
 ## Konstantin Ignatyev
 
-Extension methods for final classes or ones we do not have sources for
+How to run JVM builds and utilities quicker than Python
 
-## Billy Korando
+## Gerrit Grunwald
 
-To Java 26 and Beyond!
+Scotty, I need Warp Speed - Ways to improve the JVM startup/warmup
