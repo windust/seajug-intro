@@ -1,8 +1,5 @@
-## Seattle Java/JVM User Group
-
-2026-01-29
-
-## Scotty, I need Warp Speed - Ways to improve the JVM startup/warmup
+## Building Reliable workflows in Java
+### 2026-02-24
 
 <img width="450" src="images/seajug.svg" />
 
@@ -56,7 +53,7 @@ or in other words...
 
 ## Upcoming Events
 
-- 2026-01-22 - JChampions Conference (recordings on youtube)
+- past - JChampions Conference (recordings on youtube)
 - 2026-03-04 - Devnexus (Atlanta, GA) 50% discount: DN26JAVA
 - 2026-03-17 - JavaOne (Redwood City, CA) $50 off: J12026JUG
 - 2026-04-13 - Spring I/O (Barcelona, Spain)
@@ -73,14 +70,8 @@ or in other words...
 
 # Sponsors
 
-🙁
+Possible Finance
 
 --section--
 
-## Konstantin Ignatyev
-
-How to run JVM builds and utilities quicker than Python
-
-## Gerrit Grunwald
-
-Scotty, I need Warp Speed - Ways to improve the JVM startup/warmup
+## Harry Pierson
