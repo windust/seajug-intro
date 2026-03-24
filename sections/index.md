@@ -1,5 +1,5 @@
-## Building Reliable workflows in Java
-### 2026-02-24
+## The Reputation Formula: Turbocharge Your Developer Career
+### 2026-03-23
 
 <img width="450" src="images/seajug.svg" />
 
@@ -47,15 +47,15 @@ or in other words...
 
 ## Useful stats
 
-**2,736** members
+**2,555** members
 
 --section--
 
 ## Upcoming Events
 
-- past - JChampions Conference (recordings on youtube)
-- 2026-03-04 - Devnexus (Atlanta, GA) 50% discount: DN26JAVA
-- 2026-03-17 - JavaOne (Redwood City, CA) $50 off: J12026JUG
+- past - JChampions Conference
+- past - Devnexus
+- past - JavaOne
 - 2026-04-13 - Spring I/O (Barcelona, Spain)
 
 --section--
@@ -70,8 +70,8 @@ or in other words...
 
 # Sponsors
 
-Possible Finance
+🙁
 
 --section--
 
-## Harry Pierson
+## Bruno Souza
